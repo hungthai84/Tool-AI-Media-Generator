@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Media Generator Template",
+  "description": "Generate AI-powered images and videos from text prompts. Customize this template to build your own media generation app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
